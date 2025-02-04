@@ -2,12 +2,19 @@
 Exploring the impacts of aerosol, precipitation and meteorological factors on open and closed MCC clouds
 
 ## Group roles
-- Nasim: team leader
-- Kyndra: cloud
-- Emily: meteorology
-- Britty: meteorology
-- Zhaoyong: precipitation
-- Jason: aerosols
-- Hayley: clouds
-- Abhishek: aerosols
-- Carl: precipitation
+- Mentor  
+  - Yi Huang
+- Team leader
+  - Nasim
+- Clouds
+  - Kyndra
+  - Hayley
+- Meteorology
+  - Emily
+  - Britty
+- Precipitation
+  - Zhaojong
+  - Carl
+- Aerosols
+  - Jason
+  - Abhishek
